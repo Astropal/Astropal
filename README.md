@@ -16,12 +16,12 @@ It is possible that on this profile you may see some absolutely useless code to 
 ### Social media
 
 <div><p>
-<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" href="https://www.linkedin.com/in/bastien-dupont-a066561a3/" width="50" height="50" margin-right="10rm" style="margin-right: 20px;"/>
-&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" href="https://www.instagram.com/bastien.66/" width="50" height="50" style="margin-right: 20px;"/>
-&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111748.svg" href="https://www.youtube.com/MrBastfoot" width="50" height="50" style="margin-right: 20px;"/>
-&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" href="https://discord.gg/pu5edue" width="50" height="50" style="margin-right: 20px;"/>
-&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111668.svg" href="https://www.twitch.tv/astropal_" width="50" height="50" style="margin-right: 20px;"/>
-&nbsp;&nbsp;&nbsp;<img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111688.svg" href="https://www.twitch.tv/astropal_" width="50" height="50" style="margin-right: 5px;"/>
+<a href="https://www.linkedin.com/in/bastien-dupont-a066561a3/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" width="50" height="50" margin-right="10rm" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/bastien.66/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width="50" height="50" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/MrBastfoot"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111748.svg" width="50" height="50" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/pu5edue"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="50" height="50" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/astropal_"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111668.svg" width="50" height="50" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Astropal_"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111688.svg" width="50" height="50" style="margin-right: 5px;"/></a>
 </p></div>
 </div>
 
