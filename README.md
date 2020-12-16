@@ -8,7 +8,7 @@ I am Bastien, a French engineering school student. I create stuff that I post he
 It is possible that on this profile you may see some absolutely useless code to integrate in your projects, but most of the time I keep to myself.
 
 ## Contact ⚡️
-<img align="right" src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="200" height="200" />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="200" height="200" /></a>
 
 ### Mail
 [Bastien_Pro@outlook.com](mailto:Bastien_Pro@outlook.com)
