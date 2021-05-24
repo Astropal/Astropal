@@ -5,22 +5,22 @@
 ## Hi there 👋
 
 I am Bastien, a French engineering school student. I create stuff that I post here or on the [HiDEV](https://github.com/HiDEVTeam) organization.
-It is possible that on this profile you may see some absolutely useless code to integrate in your projects, but most of the time I keep to myself.
+Please feel free to visit my profile and contact me.
+
+I am currently looking for an 18 week internship starting in September, wherever you are in the world (I have to travel for my internship in another country than France).
 
 ## Contact ⚡️
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="200" height="200" /></a>
 
-### Mail
+### Mail ☎️
 [Bastien_Pro@outlook.com](mailto:Bastien_Pro@outlook.com)
 
-### Social media
+### Social media 💬
 
 <div><p>
 <a href="https://www.linkedin.com/in/bastien-dupont-a066561a3/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" width="50" height="50" margin-right="10rm" style="margin-right: 20px;"/></a>
 &nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/bastien.66/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width="50" height="50" style="margin-right: 20px;"/></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/MrBastfoot"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111748.svg" width="50" height="50" style="margin-right: 20px;"/></a>
 &nbsp;&nbsp;&nbsp;<a href="https://discord.gg/pu5edue"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="50" height="50" style="margin-right: 20px;"/></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/astropal_"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111668.svg" width="50" height="50" style="margin-right: 20px;"/></a>
 &nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Astropal_"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111688.svg" width="50" height="50" style="margin-right: 5px;"/></a>
 </p></div>
 </div>
