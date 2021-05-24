@@ -12,7 +12,7 @@ I am currently looking for an 18 week internship starting in September, wherever
 ## Contact ⚡️
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="200" height="200" /></a>
 
-### Mail ☎️
+### Mail ✉️
 [Bastien_Pro@outlook.com](mailto:Bastien_Pro@outlook.com)
 
 ### Social media 💬
