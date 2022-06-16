@@ -7,8 +7,6 @@
 I am Bastien, a French engineering school student. I create stuff that I post here or on the [HiDEV](https://github.com/HiDEVTeam) organization.
 Please feel free to visit my profile and contact me.
 
-I am currently looking for an 18 week internship starting in September, wherever you are in the world (I have to travel for my internship in another country than France).
-
 ## Contact ⚡️
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="200" height="200" /></a>
 
@@ -18,10 +16,9 @@ I am currently looking for an 18 week internship starting in September, wherever
 ### Social media 💬
 
 <div><p>
-<a href="https://www.linkedin.com/in/bastien-dupont-a066561a3/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" width="50" height="50" margin-right="10rm" style="margin-right: 20px;"/></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/bastien.66/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111463.svg" width="50" height="50" style="margin-right: 20px;"/></a>
-&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/pu5edue"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111370.svg" width="50" height="50" style="margin-right: 20px;"/></a>
-&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/Astropal_"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111688.svg" width="50" height="50" style="margin-right: 5px;"/></a>
+<a href="https://www.linkedin.com/in/bastien-dupont-a066561a3/"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1655380615~hmac=f7f69b52d6621108deb871e979a53f8e" width="50" height="50" margin-right="10rm" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/bastien.66/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" height="50" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/pu5edue"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504896.png?token=exp=1655380756~hmac=8e1f8996dde79c93782eee4e993cdc7a" width="50" height="50" style="margin-right: 20px;"/></a>
 </p></div>
 </div>
 
