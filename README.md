@@ -17,7 +17,7 @@ Please feel free to visit my profile and contact me.
 
 <div><p>
 <a href="https://www.linkedin.com/in/bastien-dupont-a066561a3/"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1655380615~hmac=f7f69b52d6621108deb871e979a53f8e" width="50" height="50" margin-right="10rm" style="margin-right: 20px;"/></a>
-&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/bastien.66/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" height="50" style="margin-right: 20px;"/></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/bastien.dupnt/"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" height="50" style="margin-right: 20px;"/></a>
 &nbsp;&nbsp;&nbsp;<a href="https://discord.gg/pu5edue"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504896.png?token=exp=1655380756~hmac=8e1f8996dde79c93782eee4e993cdc7a" width="50" height="50" style="margin-right: 20px;"/></a>
 </p></div>
 </div>
