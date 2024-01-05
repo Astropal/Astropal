@@ -1,5 +1,5 @@
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="200" height="200" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://media.giphy.com/media/F0RAWnqgJ1f6IzXi9U/giphy.gif" width="200" height="200" /></a>
 
 
 <!--
